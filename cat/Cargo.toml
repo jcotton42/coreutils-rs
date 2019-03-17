@@ -5,3 +5,4 @@ authors = ["Joshua Cotton <jcotton42@outlook.com>"]
 edition = "2018"
 
 [dependencies]
+structopt = "0.2"
